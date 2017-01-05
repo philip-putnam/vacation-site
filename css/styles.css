@@ -1,0 +1,11 @@
+.panel-body {
+  border-top: 5px solid black;
+}
+
+li:nth-child(2n+2) {
+  color: red;
+}
+
+.col-md-4:last-child {
+  color: blue;
+}
